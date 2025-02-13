@@ -1,14 +1,14 @@
 # Amigo Secreto
 
-O projeto "Amigo Secreto" permite que você sorteie amigos de forma simples e divertida, ideal para grupos que desejam realizar uma troca de presentes de forma anônima. O sistema permite que você insira os nomes de seus amigos, faça o sorteio e visualize os resultados de forma prática.
+O projeto "Amigo Secreto" permite que você sorteie amigos de forma simples e divertida, ideal para grupos que desejam realizar uma troca de presentes de forma anônima. O sistema permite que você insira os nomes de seus amigos, faça o sorteio e visualize o resultado de forma prática.
 
 ![Banner do Amigo Secreto](assets/amigo-secreto.png)
 
 ## Funcionalidades
 
 - **Adição de Amigos**: Você pode adicionar o nome de seus amigos para participar do sorteio.
-- **Sorteio Automático**: Após adicionar os nomes, é possível sortear os amigos secretos com um simples clique.
-- **Resultados Instantâneos**: O sistema exibe os resultados do sorteio, mostrando quem tirou quem.
+- **Sorteio Automático**: Após adicionar os nomes, é possível sortear o amigo secreto com um simples clique.
+- **Resultados Instantâneos**: O sistema exibe o resultado do sorteio, mostrando o nome do amigo secreto.
 
 ## Tecnologias Utilizadas
 
@@ -29,7 +29,7 @@ O projeto "Amigo Secreto" permite que você sorteie amigos de forma simples e di
 
    ![alt text](image/image1.png)
 
-4. **Clique em "Sortear amigo"** para gerar os pares de amigo secreto. Os resultados serão exibidos abaixo.
+4. **Clique em "Sortear amigo"** para gerar o nome do amigo secreto sorteado. O resultado será exibido na tela.
 
    ![alt text](image/image2.png)
 
